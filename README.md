@@ -1,10 +1,10 @@
 # USGS Earthquakes Hazard Map
 
-![alt text]( "logo")
+![alt text](https://raw.githubusercontent.com/Donthave1/USGS-Earthquakes-Hazard-Map/master/static/images/1-Logo.png "logo")
 
 ## Objective
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. 
-![alt text]( "update-map")
+![alt text](https://raw.githubusercontent.com/Donthave1/USGS-Earthquakes-Hazard-Map/master/static/images/6-Time_Keeps_On_Ticking.gif "update-map")
 
 Visit the [USGS GeoJSON Feed page](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) and pick the past 7-days data set to visualize. USGS website provided a [JSON representation](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) of that data.
 
@@ -16,7 +16,7 @@ Visit the [USGS GeoJSON Feed page](https://earthquake.usgs.gov/earthquakes/feed/
 [USGS Earthquakes Hazard Map]()
 
 
-![alt text]( "final")
+![alt text](https://raw.githubusercontent.com/Donthave1/USGS-Earthquakes-Hazard-Map/master/static/images/5-Advanced.png "final")
 
 I created a map using Leaflet that plots all of the earthquakes from the past 7-days data set based on USGS site provided longitude and latitude.
 Each data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes will appear larger in size and darker in color.
